@@ -69,10 +69,6 @@ img {
 	align-self: flex-end;
 }
 
-.attribution a {
-	color: var(--white);
-}
-
 @media screen and (max-width: 455px) {
 	main {
 		max-width: calc(300px - 1rem);
